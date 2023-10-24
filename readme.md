@@ -12,7 +12,6 @@ til til dette repositoriet ved å lime in lenken til det, og trykke på "push".
 Readme.md lages lett ved å opprette en ny fil i prosjektet ditt og
 kalle den "readme.md". Jeg brukte lenken https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 for basic syntax og formattering av tekst. Commit og push.  
-Lager mappen .github/workflows på samme måte.  
 
 ### 3. Lage .github/workflows/testing.yml
 1. Gå inn på "Actions" tabben i repositoriet ditt på Github.
