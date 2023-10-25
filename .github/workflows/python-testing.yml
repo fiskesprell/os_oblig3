@@ -28,4 +28,4 @@ jobs:
     - name: Testing with Pytest
       run: |
         pip install pytest
-        pytest test_leap_year.py
+        pytest -sv test_leap_year.py
